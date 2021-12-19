@@ -1,0 +1,12 @@
+/* set the properties of avatar and coin */
+img {
+	width: 100px;
+	position: absolute;
+	top: 100px;
+	left: 100px;
+}
+
+/* Set the background color of the whole screen */
+body {
+	background-color: #fcfcfc;
+}
